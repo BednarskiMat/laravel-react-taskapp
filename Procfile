@@ -1,1 +1,1 @@
-web: vendor/bin/heroku-php-apache2 public/ && yarn run production
+web: vendor/bin/heroku-php-apache2 public/help.html
